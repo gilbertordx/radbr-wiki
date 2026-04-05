@@ -1,16 +1,16 @@
 ---
-title: Barbarian Outfits
+title: Outfits Bárbaro
 category: Outfits Premium
 added_version: "7.8"
-achievement: "Brutal Politeness"
+achievement: "Brutalidade Educada"
 ---
 
-# Barbarian Outfits
+# Outfits Bárbaro
 
-## Addon Requirements
+## Requisitos de Addon
 
-| Quantity | Item | Source | Location |
-|----------|------|--------|----------|
+| Quantidade | Item | Fonte | Localização |
+|-----------|------|-------|-------------|
 | 5 | Striped Fur | {monster} | {location} |
 | 2 | Deepling Scales | Tubarao | {location} |
 | 20 | Bear Paw | Bear | {location} |
@@ -18,10 +18,10 @@ achievement: "Brutal Politeness"
 | 100 | Brimstone Shell | Brimstone Bug | {location} |
 | 1 | Glorious Axe | Mutated Tiger | {location} |
 
-## NPC Location
+## Localização do NPC
 
-| Property | Value |
-|----------|-------|
-| Region | Duskwood |
-| Directions | {directions_here} |
-| Image | ![Duskwood NPC](../assets/images/duskwood_barbarian_npc.png) |
+| Propriedade | Valor |
+|-------------|-------|
+| Região | Duskwood |
+| Direções | {directions_here} |
+| Imagem | ![Duskwood NPC](../assets/images/duskwood_barbarian_npc.png) |

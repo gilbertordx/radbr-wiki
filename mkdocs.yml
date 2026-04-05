@@ -1,12 +1,13 @@
 site_name: Radbr Wiki
 theme:
   name: material
+  language: pt-BR
   palette:
     scheme: slate
 docs_dir: docs
 site_dir: site
 nav:
-  - Home: index.md
+  - Início: index.md
   - Outfits: outfits/index.md
   - Quests: quests/index.md
-  - Items: items/index.md
+  - Itens: items/index.md

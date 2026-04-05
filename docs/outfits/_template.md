@@ -1,22 +1,22 @@
 ---
-title: Outfit Template
+title: Template de Outfit
 category: Outfits
 added_version: ""
 achievement: ""
 ---
 
-# Outfit Name
+# Nome do Outfit
 
-## Addon Requirements
+## Requisitos de Addon
 
-| Quantity | Item | Source | Location |
-|----------|------|--------|----------|
+| Quantidade | Item | Fonte | Localização |
+|-----------|------|-------|-------------|
 | | | | |
 
-## NPC Location
+## Localização do NPC
 
-| Property | Value |
-|----------|-------|
-| Region | |
-| Directions | |
-| Image | |
+| Propriedade | Valor |
+|-------------|-------|
+| Região | |
+| Direções | |
+| Imagem | |
