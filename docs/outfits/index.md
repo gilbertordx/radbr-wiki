@@ -1,0 +1,3 @@
+# Outfits
+
+Outfit documentation.

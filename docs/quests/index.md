@@ -1,0 +1,3 @@
+# Quests
+
+Quest documentation.
