@@ -1,11 +1,11 @@
 ---
-title: Outfit Bárbaro
+title: Outfit Mago
 category: {placeholder}
 added_version: {placeholder}
 achievement: {placeholder}
 ---
 
-# Outfit Bárbaro
+# Outfit Mago
 
 ## Requisitos de Addon
 
@@ -16,7 +16,8 @@ achievement: {placeholder}
 | 20 | Bear Paw | {placeholder} | {placeholder} |
 | 20 | Honeycomb | {placeholder} | {placeholder} |
 | 100 | Brimstone Shell | {placeholder} | {placeholder} |
-| 1 | Glorious Axe | {placeholder} | {placeholder} |
+| 10 | Magic Sulphur | {placeholder} | {placeholder} |
+| 500 | Moedas de Ouro | {placeholder} | {placeholder} |
 
 ## Localização do NPC
 
